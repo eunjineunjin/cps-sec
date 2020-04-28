@@ -1,3 +1,7 @@
+'''
+가수명을 입력받아 멜론에서 곡을 검색해 출력하는 프로그램입니다.
+'''
+
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
 from bs4 import BeautifulSoup
